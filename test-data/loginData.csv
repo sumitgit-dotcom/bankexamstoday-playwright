@@ -1,3 +1,3 @@
 ﻿email,password,expectedResult
-test-user@example.com,REPLACE_WITH_TEST_PASSWORD,success
-invalid-user@example.com,WRONG_TEST_PASSWORD,failure
+james@yopmail.com,james@12345,success
+tim@yopmail.com,tim@12345,failure
